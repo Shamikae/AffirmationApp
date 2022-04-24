@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AffirmationApp/static/css/main.ce55bd76.css",
+    "main.js": "/AffirmationApp/static/js/main.c3cffe8a.js",
+    "static/js/787.71df535f.chunk.js": "/AffirmationApp/static/js/787.71df535f.chunk.js",
+    "static/media/calmSky.jpeg": "/AffirmationApp/static/media/calmSky.96cb7c49e82cd8ccf495.jpeg",
+    "index.html": "/AffirmationApp/index.html",
+    "static/media/icon-dice.svg": "/AffirmationApp/static/media/icon-dice.08691e4c24c11b5ba564.svg",
+    "static/media/pattern-divider-mobile.svg": "/AffirmationApp/static/media/pattern-divider-mobile.aca38726412164df099c.svg",
+    "main.ce55bd76.css.map": "/AffirmationApp/static/css/main.ce55bd76.css.map",
+    "main.c3cffe8a.js.map": "/AffirmationApp/static/js/main.c3cffe8a.js.map",
+    "787.71df535f.chunk.js.map": "/AffirmationApp/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce55bd76.css",
+    "static/js/main.c3cffe8a.js"
+  ]
+}
